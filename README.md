@@ -1,7 +1,7 @@
 # CAM-EIA
 
-Things we need to d3.js and ember.js
-===
+####Things we need to d3.js and ember.js
+
 Interactively separate data into these views. There are 50 states + DC.
 Missing data will be marked as 0.
 Units: thousand megawatthours, GWhr
@@ -20,8 +20,8 @@ Units: thousand megawatthours, GWhr
 
 
 
-Fuel Types/Sources and Subsources
-====
+####Fuel Types/Sources and Subsources
+
 unconfirmed: (PEL) (COW)  (WWW) (WAS) (AOR) (OOG)
 See eia_tech_notes.pdf pg14 for more.
 
