@@ -1,10 +1,7 @@
 # CAM-EIA
 
-####Things we need to d3.js and ember.js
-
-Interactively separate data into these views. There are 50 states + DC.
-Missing data will be marked as 0.
-Units: thousand megawatthours, GWhr
+## Plan
+Things we need to d3.js and ember.js to interactively separate data into these views. 
 
 * Pick a timescale: Annual/Quarterly/Monthly 
     * Pick a year/quarter/month, ie, 2012/2014Q3/201602
@@ -18,12 +15,11 @@ Units: thousand megawatthours, GWhr
 * Show all sources: fossil fuels/nuclear/hydro/biomass/other renewables/other
     * or, pick one source and separate into subsources, see section below.
 
+Notes. Missing data will be marked as 0. Units are in thousand megawatthours, i.e. GWhr. There are 50 states + DC.
 
+## Appendix: Fuel Types/Sources and Subsources
 
-####Fuel Types/Sources and Subsources
-
-unconfirmed: (PEL) (COW)  (WWW) (WAS) (AOR) (OOG)
-See eia_tech_notes.pdf pg14 for more.
+See eia_tech_notes.pdf pg14 for more, but not all, of the abbreviations. Unconfirmed abbv.: (PEL) (COW) (WWW) (WAS) (AOR) (OOG).
 
 * "1": "all fuels" (ALL)
     * (fossil fuels)
