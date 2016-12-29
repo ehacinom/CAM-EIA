@@ -1,8 +1,10 @@
 # CAM-EIA
 
-Ultimate goal is something like this link but with more interactive slicing of views and a slider for time. http://www.brightpointinc.com/political_influence/
+## Abstract
 
-## Plan
+Ultimate goal is [something like this link](http://www.brightpointinc.com/political_influence/) but with more interactive slicing of views and a slider for time. Also less mess, because we have less sources, clearer states, and our "bubbles" of data (location) will be geographically sorted, cf. my EIA example: [html](https://github.com/ehacinom/EIA/blob/master/geo.html), [js](https://github.com/ehacinom/EIA/blob/master/geo.js).
+
+## Views
 Things we need to d3.js and ember.js to interactively separate data into these views. 
 
 * Pick a timescale: Annual/Quarterly/Monthly 
