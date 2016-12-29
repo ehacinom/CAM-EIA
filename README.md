@@ -1,5 +1,7 @@
 # CAM-EIA
 
+Ultimate goal is something like this link but with more interactive slicing of views and a slider for time. http://www.brightpointinc.com/political_influence/
+
 ## Plan
 Things we need to d3.js and ember.js to interactively separate data into these views. 
 
